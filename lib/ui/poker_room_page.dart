@@ -17,7 +17,7 @@ class PokerRoomPage extends StatelessWidget {
         padding: EdgeInsets.symmetric(
             horizontal: SizeConfig.blockSizeHorizontal * 20),
         child: Column(
-          children: [Table()],
+          children: [Text("aa")],
         ),
       ),
     );
